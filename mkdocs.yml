@@ -1,0 +1,11 @@
+site_name: DevOps and SRE questions.
+nav:
+  - Linux Question Set: linux.md
+  - Networking Question Set: networking.md
+  - Cloud Question Set: cloud.md
+
+theme:
+  name: material
+  palette:
+    primary: 'blue grey'
+    accent: 'light blue'
