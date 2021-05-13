@@ -12,3 +12,8 @@ Free command show information about memory in you system.
 **How to make a new directory**
 
 You can use mkdir commmand. 
+
+
+**How can you see the process consuming most resources?**
+
+You can use the top command.
