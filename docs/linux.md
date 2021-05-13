@@ -8,3 +8,7 @@ It contains the information of everything running in system and other resource c
 **What does free command do?**
 
 Free command show information about memory in you system.
+
+**How to make a new directory**
+
+You can use mkdir commmand. 
