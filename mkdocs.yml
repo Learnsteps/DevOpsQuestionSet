@@ -3,6 +3,7 @@ nav:
   - Linux Question Set: linux.md
   - Networking Question Set: networking.md
   - Cloud Question Set: cloud.md
+  - Python Question Set: python.md
 
 theme:
   name: material
